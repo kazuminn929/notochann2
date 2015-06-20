@@ -11,8 +11,7 @@ body{
 }
 .container{
     width: 900px; margin: auto;
-    position: relative;
-    top: 40px
+    
 }
 nav{
     background-color: #2c1212;
@@ -55,7 +54,6 @@ nav a:hover{
     margin-left: 10px;
     float: left;
     background: #fff;
-    margin-top: 23px;
     
 }
 .main img{
@@ -79,6 +77,20 @@ nav a:hover{
     float: left;
     overflow: hidden;
 }
-
+footer {
+    bottom: 0;
+    width: 100%;
+    height: 200px;
+    overflow: hidden;
+     background-color: #777777;
+}
+h1{
+  color:rgba(0, 0, 0, 0.76) ;
+  font-size: 50px;
+  width: 350px;
+  margin: 0 auto;
+  position: relative;
+  top: 180px;
+}
 
 
